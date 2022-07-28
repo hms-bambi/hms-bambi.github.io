@@ -24,12 +24,3 @@ features:
   - title: ⚒️ Projects
     details: Possible projects might include, redesigning or creating a website, visualizing internal data, developing spreadsheets to track organizational data.
 ---
-
-<style>
-  :root {
-    --vp-c-brand: var(--vp-c-red);
-    --vp-c-brand-light: var(--vp-c-red-light);
-    --vp-c-brand-lighter: var(--vp-c-red-lighter);
-    --vp-c-brand-dark: var(--vp-c-red-dark);
-  }
-</style>

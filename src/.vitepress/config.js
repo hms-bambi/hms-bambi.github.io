@@ -8,7 +8,8 @@ const config = {
   title: "HMS Bambi",
   description: "A collection of Harvard Medical School scientists interested in applying our technical skills to support local minority-owned/serving organizations.",
   head: [
-    ["link", { rel: "icon", href: '/logo.svg' }]
+    ["link", { rel: "icon", href: '/logo.svg' }],
+    ["link", { rel: "stylesheet", href: '/index.css' }],
   ],
   themeConfig: {
     socialLinks: [
