@@ -1,5 +1,5 @@
 <script setup>
-import { VPTeamMembers } from 'vitepress/theme';
+import { VPTeamPage, VPTeamPageTitle, VPTeamMembers } from 'vitepress/theme';
 
 const members = [
   {
@@ -70,6 +70,17 @@ const members = [
 ];
 </script>
 
-# Our Team
+<VPTeamPage>
+  <VPTeamPageTitle>
+    <template #title>
+      Our Team
+    </template>
+    <template #lead>
+      We are a collection of Harvard Medical School scientists
+      interested in applying our technical skills to support
+      local minority-owned/serving organizations.
+    </template>
+  </VPTeamPageTitle>
+  <VPTeamMembers size="small" :members="members" />
+</VPTeamPage>
 
-<VPTeamMembers size="small" :members="members" />
