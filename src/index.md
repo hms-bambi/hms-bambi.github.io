@@ -15,6 +15,9 @@ hero:
     - theme: alt
       text: Team
       link: /team
+    - theme: alt
+      text: Testimonials
+      link: /testimonials
 
 features:
   - title: 🚀 Goal
