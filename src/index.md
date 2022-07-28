@@ -13,9 +13,6 @@ hero:
       text: Contact
       link: /contact
     - theme: alt
-      text: Team
-      link: /team
-    - theme: alt
       text: Testimonials
       link: /testimonials
 
