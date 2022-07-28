@@ -1,7 +1,7 @@
 # hms-bambi.github.io
 Website!
 
-## develepment
+## development
 
 ```
 npm install
