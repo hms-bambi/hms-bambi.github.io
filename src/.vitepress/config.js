@@ -6,7 +6,7 @@
 const config = {
   lang: "en-US",
   title: "HMS Bambi",
-  description: "A collection of Harvard Medical School scientists interested in applying our technical skills to support local minority-owned/serving organizations.",
+  description: "A collection of Harvard Medical School scientists interested in volunteering our technical skills to support local minority-owned/serving organizations.",
   head: [
     ["link", { rel: "icon", href: '/logo.svg' }],
     ["link", { rel: "stylesheet", href: '/index.css' }],
@@ -19,6 +19,7 @@ const config = {
     nav: [
       { text: 'Contact', link: '/contact' },
       { text: 'Team', link: '/team' },
+      { text: 'Testimonials', link: '/testimonials' },
     ],
     editLink: {
       pattern: 'https://github.com/hms-bambi/hms-bambi.github.io/edit/main/src/:path'
