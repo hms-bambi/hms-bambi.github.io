@@ -77,7 +77,7 @@ const members = [
     </template>
     <template #lead>
       We are a collection of Harvard Medical School scientists
-      interested in applying our technical skills to support
+      interested in volunteering our technical skills to support
       local minority-owned/serving organizations.
     </template>
   </VPTeamPageTitle>

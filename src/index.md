@@ -7,7 +7,7 @@ titleTemplate: HMS Boston Area Minority Business Informatics
 hero:
   name: Bambi
   text: Boston Area Minority Business Informatics
-  tagline: A collection of Harvard Medical School scientists interested in applying our technical skills to support local minority-owned/serving organizations.
+  tagline: A collection of Harvard Medical School scientists interested in volunteering our technical skills to support local minority-owned/serving organizations.
   actions:
     - theme: brand
       text: Contact
