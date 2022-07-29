@@ -33,6 +33,14 @@ const members = [
     ]
   },
   {
+    avatar: 'https://www.github.com/dmc747.png',
+    name: 'Darcé Costello',
+    title: 'Member',
+    links: [
+      { icon: 'github', link: 'https://github.com/dmc747' },
+    ]
+  },
+  {
     avatar: 'https://www.github.com/aryakaul.png',
     name: 'Arya Kaul',
     title: 'Member',
