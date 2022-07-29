@@ -67,6 +67,14 @@ const members = [
       { icon: 'github', link: 'https://github.com/rumker' },
     ]
   },
+  {
+    avatar: 'https://www.github.com/lw453.png',
+    name: 'Lily Wang',
+    title: 'Member',
+    links: [
+      { icon: 'github', link: 'https://github.com/lw453' },
+    ]
+  },
 ];
 </script>
 
