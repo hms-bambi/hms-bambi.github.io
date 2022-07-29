@@ -1,3 +1,9 @@
+---
+layout: page
+title: Our Team
+description: A collection of scientists interested in volunteering our technical skills.
+---
+
 <script setup>
 import { VPTeamPage, VPTeamPageTitle, VPTeamMembers } from 'vitepress/theme';
 
