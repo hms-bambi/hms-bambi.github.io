@@ -58,6 +58,14 @@ const members = [
     ]
   },
   {
+    avatar: 'https://www.github.com/emarosti.png',
+    name: 'Eliana Marostica',
+    title: 'Member',
+    links: [
+      { icon: 'github', link: 'https://github.com/emarosti' },
+    ]
+  },
+  {
     avatar: 'https://www.github.com/apnathan.png',
     name: 'Aparna Nathan',
     title: 'Member',
