@@ -13,8 +13,8 @@ hero:
       text: Contact
       link: /contact
     - theme: alt
-      text: Testimonials
-      link: /testimonials
+      text: Portfolio
+      link: /portfolio
 
 features:
   - title: 🚀 Goal

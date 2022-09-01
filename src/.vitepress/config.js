@@ -20,7 +20,7 @@ const config = {
 
     nav: [
       { text: "Contact", link: "/contact" },
-      { text: "Testimonials", link: "/testimonials" },
+      { text: "Portfolio", link: "/portfolio" },
       { text: "Team", link: "/team" },
     ],
 
