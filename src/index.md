@@ -22,5 +22,5 @@ features:
   - title: 💻 Technical expertise
     details: Our expertise is in data management, visualization, and communication. Possible projects might include, redesigning or creating a website, visualizing internal data, developing spreadsheets to track organizational data.
   - title: ✨ Committments
-    details: We commit to providing sustainable, tech-accessible, long-term solutions that suit your needs. We commit to never charging a fee, and dedicating ourselves to help you and your organization grow.
+    details: We commit to providing sustainable, tech-accessible, long-term solutions that suit your needs. We do not charge fees, and are solely dedicated to helping you and your organization grow.
 ---
