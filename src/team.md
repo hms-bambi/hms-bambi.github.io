@@ -41,11 +41,17 @@ const members = [
     ]
   },
   {
-    avatar: 'https://www.github.com/aryakaul.png',
+    avatar: '/arya.webp',
     name: 'Arya Kaul',
-    title: 'Member',
+    title: 'Founder',
     links: [
       { icon: 'github', link: 'https://github.com/aryakaul' },
+      { 
+          icon: {
+              svg: '<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Dribbble</title><path d="M13...6.38z"/></svg>'
+          },
+          link: 'https://arya.casa' 
+      }
     ]
   },
   {
